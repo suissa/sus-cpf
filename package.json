@@ -1,0 +1,21 @@
+{
+  "name": "sus-cpf",
+  "version": "1.0.0",
+  "description": "consulte suas infos do SUS via CPF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sus",
+    "cpf",
+    "webschool",
+    "suissa"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "preferGlobal": "true",
+  "directories": {
+    "bin": "./bin"
+  }
+}
