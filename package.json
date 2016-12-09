@@ -1,6 +1,6 @@
 {
   "name": "busca-js",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Busque o significado de qualquer função do JavaScript",
   "main": "index.js",
   "scripts": {

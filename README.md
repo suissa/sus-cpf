@@ -1,15 +1,15 @@
-# SUS
+# busca-js
 
-Módulo global para consulta de CPF na API do SUS.
+Módulo global para consulta funções do JavaScript via Terminal.
 
 Para instalar basta:
 
 ```
-npm i -g sus-cpf
+npm i -g busca-js
 ```
 
 Para executar, no seu terminal, faça:
 
 ```
-sus 11111111111
+busca-js filter
 ```
