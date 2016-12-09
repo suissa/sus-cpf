@@ -1,6 +1,6 @@
 {
   "name": "busca-js",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "Busque o significado de qualquer função do JavaScript",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,8 @@
   },
   "dependencies": {
     "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
     "say-something": "^0.1.2"
-  },
-  "preferGlobal": "true"
+  }
 }
